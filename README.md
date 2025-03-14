@@ -81,8 +81,8 @@
 
 - **Backend**: Node.js, Express.js
 - **Frontend**: React.js (with JSX, HTML, and CSS for styling)
-- **Real**-Time Functionality: Socket.IO
-- **Database**: [Insert your preferred database here, like MongoDB, PostgreSQL, MySQL, etc.]
+- **Real-Time Functionality**: Socket.IO
+- **Database**: MongoDB
 - **File Handling**: Allows resume uploads in PDF and other formats
 
 ## Conclusion
