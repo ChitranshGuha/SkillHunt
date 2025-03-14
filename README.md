@@ -79,11 +79,11 @@
 
 ## Technologies Used
 
-- **Backend**: Flask (Python)
-- **Frontend**: HTML, CSS, JavaScript (Bootstrap for responsiveness)
-- **Database**: SQLite (using SQLAlchemy)
-- **Real-Time Functionality**: SocketIO
-- **File Handling**: Allows resume uploads in PDF and other formats.
+- **Backend**: Node.js, Express.js
+- **Frontend**: React.js (with JSX, HTML, and CSS for styling)
+- **Real**-Time Functionality: Socket.IO
+- **Database**: [Insert your preferred database here, like MongoDB, PostgreSQL, MySQL, etc.]
+- **File Handling**: Allows resume uploads in PDF and other formats
 
 ## Conclusion
 
